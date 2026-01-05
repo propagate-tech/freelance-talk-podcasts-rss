@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Freelance Talk Podcast</title>
-    <link>https://propagate-tech.github.io/freelance-talk-podcasts-rss/</link>
-    <description>フリーランスのリアルを語るポッドキャスト</description>
-    <language>ja</language>
-    <itunes:image href="https://あなたのカバー画像URL.jpg"/>
-    </channel>
-</rss>
+# freelance-talk-podcasts-rss
