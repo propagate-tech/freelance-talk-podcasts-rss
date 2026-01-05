@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <item>
+      <title>【案件獲得】元フリーターが独立5年、直・古巣・紹介で仕事を回す舞台裏 #fltalk</title>
+      <description><![CDATA[「営業しないフリーランス」って、本当に成立するの？──元フリーターからエンジニアへ転身し、独立5年目の今も“直・古巣・紹介”で仕事を回し続ける舞台裏を赤裸々に語ります。案件獲得に悩む人、人脈の作り方や活かし方を知りたい人に刺さる回です。
+
+**このエピソードで話すこと（トピック）**
+- 現在の稼働状況：並行案件の持ち方と働き方（稼働時間のリアル）
+- 案件の中身：アセット開発／技術支援／LLM・チャットボットへの関心
+- 案件獲得のルート：エージェントなしで「知人・過去の現場・紹介」から直契約する方法
+- 技術スタックと開発スタイル：TypeScript、Next.js、React、AWS（Lambda/ECS/CDK）でフルスタックに担当
+- キャリアの軌跡：学歴・資格なしのフリーター → SES → クラスメソッド → 独立した理由
+- 志向の変化：事業会社志望から、技術スタック重視（LLMなど）へ変わった背景
+- 法人化とライフスタイル：エンジニア夫婦での仕事との向き合い方、切磋琢磨する関係性
+- 健康管理：健診やサプリなど、長く働くための工夫
+- 過去の自分への助言：「単価に飛びつくな」— 技術選定がキャリアに与える影響
+- 最近の出来事：古巣クラスメソッドに業務委託で戻った話／法人決算に向けて簿記3級を取得
+
+**出演**
+- フリーランスエンジニア：岡 春奈（X: https://x.com/OkaHaruna ）]]></description>
+      <link>https://propagate-tech.github.io/freelance-talk-podcasts-rss/</link>
+      <enclosure url="https://dvjfo03qm35k.cloudfront.net/episodes/xWlAhZJpIa4.mp3" length="834549" type="audio/mpeg" />
+      <pubDate>Mon, 05 Jan 2026 14:46:33 GMT</pubDate>
+      <guid isPermaLink="false">xWlAhZJpIa4</guid>
+    </item>
     <title>Freelance Talk Podcast</title>
     <link>https://propagate-tech.github.io/freelance-talk-podcasts-rss/</link>
     <description>フリーランスのリアルを語るポッドキャスト</description>
