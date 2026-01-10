@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
 	<channel>
+    <item>
+      <title>【案件獲得】元フリーターが独立5年、直・古巣・紹介で仕事を回す舞台裏 #fltalk</title>
+      <description><![CDATA[「営業が苦手でも、フリーランスは続けられる？」――元フリーターからエンジニアへ転身し、独立5年目のいま“直・古巣・紹介”だけで仕事を回す舞台裏を公開。エージェントに頼らず案件が途切れない理由、複数案件を並行するリアルな稼働、技術スタックの選び方まで、実体験ベースで語ります。
+
+**このエピソードで話すこと**
+- 現在の案件状況と稼働時間（どんな仕事を、どれくらいのペースで回しているか）
+- 案件内容の具体例：アセット開発／技術支援／LLM・チャットボット開発への関心
+- 案件獲得ルートの実態：エージェントなし、知人・過去現場・紹介による直契約
+- フルスタック寄りの開発スタイルと技術スタック  
+  - TypeScript / Next.js / React  
+  - AWS（Lambda, ECS, CDK）など
+- 経歴：学歴・資格なしのフリーター → SES → クラスメソッド → 独立
+- クラスメソッドで得たものと、独立を決めた理由（案件選び／営業／単価交渉を自分でやる）
+- 志向の変化：事業会社志望から「技術スタック重視」へ（LLMなど）
+- 法人化とエンジニア夫婦の働き方（お互いに切磋琢磨できる関係性）
+- 過去の自分へのアドバイス：「単価に飛びつくな」—技術選定がキャリアに与える影響
+- 近況：古巣へ業務委託で戻った感覚／法人決算のため簿記3級を取得
+
+**出演**
+- フリーランスエンジニア：岡 春奈（X）https://x.com/OkaHaruna
+
+**参考**
+- https://propagate-tech.com/services/cmpartners
+
+#フリーランス #フリーランスエンジニア #ITフリーランス #クラスメソッド #fltalk]]></description>
+      <itunes:duration>28:55</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dvjfo03qm35k.cloudfront.net/episodes/xWlAhZJpIa4.mp3" length="101738" type="audio/mpeg" />
+      <pubDate>Sat, 10 Jan 2026 10:38:39 GMT</pubDate>
+      <guid isPermaLink="false">xWlAhZJpIa4</guid>
+    </item>
 		<title><![CDATA[フリーランストーク]]></title>
 		<description><![CDATA[【フリーランスエンジニアのためのフリーなラジオ】
 
