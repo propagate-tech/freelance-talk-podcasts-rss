@@ -2,7 +2,7 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" version="2.0">
   <channel>
     <title><![CDATA[ フリーランストーク ]]></title>
-    <description><![CDATA[ 【フリーランスエンジニアのためのフリーなラジオ】現役フリーランスエンジニアやエージェント、更には発注者など、さまざまな立場の方をゲストを招き、リアルな経験や悩み、最新トレンド、キャリアアップのヒントを語り合うインターネットラジオ番組です。 ]]></description>
+    <description><![CDATA[ 【フリーランスエンジニアのためのフリーなラジオ】現役フリーランスエンジニアやエージェントなどを招き、リアルな経験やキャリアのヒントを語り合う番組です。 ]]></description>
     <link>https://propagate-tech.github.io/freelance-talk-podcasts-rss/</link>
     <image>
       <url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg</url>
@@ -27,57 +27,57 @@
 
     <item>
       <title>【案件獲得】元フリーターが独立5年、直・古巣・紹介で仕事を回す舞台裏 #fltalk</title>
-      <description><![CDATA[ 「営業が苦手でも、フリーランスは続けられる？」――元フリーターからエンジニアへ転身し、独立5年目のいま“直・古巣・紹介”だけで仕事を回す舞台裏を公開。エージェントに頼らず案件が途切れない理由、技術スタックの選び方まで、実体験ベースで語ります。<br /><br />
+      <description><![CDATA[ 「営業が苦手でも、フリーランスは続けられる？」――元フリーターからエンジニアへ転身し、独立5年目のいま“直・古巣・紹介”だけで仕事を回す舞台裏を公開。<br /><br />
       **出演**<br />
       - フリーランスエンジニア：岡 春奈（X）https://x.com/OkaHaruna ]]></description>
       <itunes:duration>00:28:55</itunes:duration>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/anchor.fm/s/1039d6080/podcast/play/112526365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-16%2Fcb049ebc-3363-761a-a722-3fe2c564a066.mp3" length="69360960" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/anchor.fm/s/1039d6080/podcast/play/112526365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-16%2Fcb049ebc-3363-761a-a722-3fe2c564a066.mp3" length="69360960" type="audio/mpeg" />
       <pubDate>Sat, 10 Jan 2026 14:02:45 GMT</pubDate>
       <guid isPermaLink="false">adf12c8a-d01c-46c3-a496-61f3b9bc1692</guid>
     </item>
 
     <item>
       <title><![CDATA[ エンドユーザーが見えなかった！大手製造業から、ITフリーランスエンジニアになった元・生産技術、皆越さんの現実 #fltalk ]]></title>
-      <description><![CDATA[ 自動車業界の巨大企業からITフリーランスへ。キャリアチェンジから 4年目となる現在、皆越さんが直面している現実と、新しい働き方の魅力を語ります。 ]]></description>
-      <pubDate>Thu, 27 Nov 2025 09:00:00 GMT</pubDate>
+      <description><![CDATA[ 自動車業界からITフリーランスへ。キャリアチェンジから4年目となる現実を語ります。 ]]></description>
       <itunes:duration>00:42:43</itunes:duration>
-      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/111395509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2F412757184-44100-2-55f5c02f99252.m4a" length="41452333" type="audio/x-m4a"/>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/111395509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2F412757184-44100-2-55f5c02f99252.m4a" length="41452333" type="audio/x-m4a" />
+      <pubDate>Thu, 27 Nov 2025 09:00:00 GMT</pubDate>
       <guid isPermaLink="false">9c94d89b-aee0-4458-915a-4c0c8fad3584</guid>
     </item>
 
     <item>
       <title><![CDATA[ フリーランス20年の秘訣！ 塾講師→エンジニア→アジャイルコーチ 高江洲さんのキャリア術 ]]></title>
-      <description><![CDATA[ 営業活動ゼロで 20年間仕事を獲得し続ける「繋がり」の作り方。異色のキャリアパスを語ります。 ]]></description>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <description><![CDATA[ 営業活動ゼロで20年間仕事を獲得し続ける「繋がり」の作り方を語ります。 ]]></description>
       <itunes:duration>00:25:05</itunes:duration>
-      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/109109920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-2%2Fd396fe81-b486-dd47-eace-2f1bb2f36476.mp3" length="46308960" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/109109920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-2%2Fd396fe81-b486-dd47-eace-2f1bb2f36476.mp3" length="46308960" type="audio/mpeg" />
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">5532fb75-c44a-446e-8368-a0f4ed1fa5da</guid>
     </item>
 
     <item>
       <title><![CDATA[ お金から「真の自由」へ、キャリア20年の知る人ぞ知る隠れ家的フリーランス 太田哲也さん ]]></title>
       <description><![CDATA[ 会社員とフリーランスを行き来しながら彼が経験した失敗談や、AI時代の働き方を語り尽くします。 ]]></description>
-      <pubDate>Mon, 07 Jul 2025 09:12:10 GMT</pubDate>
       <itunes:duration>00:50:07</itunes:duration>
-      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/105135561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403443078-44100-2-08ce7d5a6f3c.m4a" length="48642815" type="audio/x-m4a"/>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/105135561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403443078-44100-2-08ce7d5a6f3c.m4a" length="48642815" type="audio/x-m4a" />
+      <pubDate>Mon, 07 Jul 2025 09:12:10 GMT</pubDate>
       <guid isPermaLink="false">6db56eb4-5f06-4fd9-9e08-985f2116194c</guid>
     </item>
 
     <item>
       <title><![CDATA[ 異業種からフリーランスへ、そして5年で独立！フリーランスエンジニア久保田さんのリアルな働き方 ]]></title>
-      <description><![CDATA[ 5年で独立した久保田さん。報酬アップや案件選択の自由を獲得したリアルな働き方に迫ります。 ]]></description>
-      <pubDate>Tue, 24 Jun 2025 04:29:15 GMT</pubDate>
+      <description><![CDATA[ 報酬アップや案件選択の自由を獲得した久保田さんのリアルな働き方に迫ります。 ]]></description>
       <itunes:duration>00:30:21</itunes:duration>
-      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/104556114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-24%2F3cc9ea67-2cb6-d249-e46e-80d3830523ef.mp3" length="36435360" type="audio/mpeg"/>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/104556114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-24%2F3cc9ea67-2cb6-d249-e46e-80d3830523ef.mp3" length="36435360" type="audio/mpeg" />
+      <pubDate>Tue, 24 Jun 2025 04:29:15 GMT</pubDate>
       <guid isPermaLink="false">667dc8e2-46f5-4409-9801-de53f84a61e6</guid>
     </item>
 
     <item>
       <title><![CDATA[ フリーランスエンジニアのリアルな「独立理由」と知られざる「生態」 - 現役エージェントが語る編 ]]></title>
       <description><![CDATA[ エージェントだからこそ見えてくる、エンジニアたちのリアルな実像を語ります。 ]]></description>
-      <pubDate>Wed, 14 May 2025 06:30:04 GMT</pubDate>
       <itunes:duration>00:14:33</itunes:duration>
-      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/102408576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F1f452a8b-6b62-ac0c-7600-912681ca9770.m4a" length="27627102" type="audio/x-m4a"/>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/102408576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F1f452a8b-6b62-ac0c-7600-912681ca9770.m4a" length="27627102" type="audio/x-m4a" />
+      <pubDate>Wed, 14 May 2025 06:30:04 GMT</pubDate>
       <guid isPermaLink="false">3eea05fc-9cf1-4193-8500-67839711780d</guid>
     </item>
   </channel>
