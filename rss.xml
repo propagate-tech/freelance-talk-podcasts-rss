@@ -1,161 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
-	<channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" version="2.0">
+  <channel>
+    <title><![CDATA[ フリーランストーク ]]></title>
+    <description><![CDATA[ 【フリーランスエンジニアのためのフリーなラジオ】 現役フリーランスエンジニアやエージェントなど、さまざまな立場の方をゲストに招き、リアルな経験や悩み、キャリアアップのヒントを語り合うポッドキャスト番組です。 ]]></description>
+    <link>https://propagate-tech.github.io/freelance-talk-podcasts-rss/</link>
+    <image>
+      <url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg</url>
+      <title>フリーランストーク</title>
+      <link>https://propagate-tech.github.io/freelance-talk-podcasts-rss/</link>
+    </image>
+    <generator>n8n Automation</generator>
+    <lastBuildDate>Sat, 10 Jan 2026 23:55:00 GMT</lastBuildDate>
+    <author><![CDATA[ CMパートナーズ ]]></author>
+    <copyright><![CDATA[ CMパートナーズ ]]></copyright>
+    <language><![CDATA[ ja ]]></language>
+    <itunes:author>CMパートナーズ</itunes:author>
+    <itunes:summary>フリーランスエンジニアのための情報と共感が詰まったラジオです。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>CMパートナーズ</itunes:name>
+      <itunes:email>fukasawa.takeshi@classmethod.jp</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg"/>
+
     <item>
       <title>【案件獲得】元フリーターが独立5年、直・古巣・紹介で仕事を回す舞台裏 #fltalk</title>
-      <description><![CDATA[「営業が苦手でも、フリーランスは続けられる？」――元フリーターからエンジニアへ転身し、独立5年目のいま“直・古巣・紹介”だけで仕事を回す舞台裏を公開。エージェントに頼らず案件が途切れない理由、複数案件を並行するリアルな稼働、技術スタックの選び方まで、実体験ベースで語ります。
-
-**このエピソードで話すこと**
-- 現在の案件状況と稼働時間（どんな仕事を、どれくらいのペースで回しているか）
-- 案件内容の具体例：アセット開発／技術支援／LLM・チャットボット開発への関心
-- 案件獲得ルートの実態：エージェントなし、知人・過去現場・紹介による直契約
-- フルスタック寄りの開発スタイルと技術スタック  
-  - TypeScript / Next.js / React  
-  - AWS（Lambda, ECS, CDK）など
-- 経歴：学歴・資格なしのフリーター → SES → クラスメソッド → 独立
-- クラスメソッドで得たものと、独立を決めた理由（案件選び／営業／単価交渉を自分でやる）
-- 志向の変化：事業会社志望から「技術スタック重視」へ（LLMなど）
-- 法人化とエンジニア夫婦の働き方（お互いに切磋琢磨できる関係性）
-- 過去の自分へのアドバイス：「単価に飛びつくな」—技術選定がキャリアに与える影響
-- 近況：古巣へ業務委託で戻った感覚／法人決算のため簿記3級を取得
-
-**出演**
-- フリーランスエンジニア：岡 春奈（X）https://x.com/OkaHaruna
-
-**参考**
-- https://propagate-tech.com/services/cmpartners
-
-#フリーランス #フリーランスエンジニア #ITフリーランス #クラスメソッド #fltalk]]></description>
-      <itunes:duration>28m55s</itunes:duration>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/dvjfo03qm35k.cloudfront.net/episodes/xWlAhZJpIa4.mp3" length="101738" type="audio/mpeg" />
+      <description><![CDATA[ 元フリーターからエンジニアへ転身し、独立5年目のいま“直・古巣・紹介”だけで仕事を回す舞台裏を公開。エージェントに頼らず案件が途切れない理由、技術スタックの選び方まで語ります。<br /><br />- TypeScript / Next.js / React / AWS (CDK)<br />- 独立の動機：案件選びや単価交渉を自分でやりたかった<br />- 過去の自分へのアドバイス：「単価に飛びつくな」 ]]></description>
+      <itunes:duration>00:28:55</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/anchor.fm/s/1039d6080/podcast/play/112526365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-16%2Fcb049ebc-3363-761a-a722-3fe2c564a066.mp3" length="69360960" type="audio/mpeg"/>
       <pubDate>Sat, 10 Jan 2026 14:02:45 GMT</pubDate>
-      <guid isPermaLink="false">xWlAhZJpIa4</guid>
+      <guid isPermaLink="false">adf12c8a-d01c-46c3-a496-61f3b9bc1692</guid>
     </item>
-		<title><![CDATA[フリーランストーク]]></title>
-		<description><![CDATA[【フリーランスエンジニアのためのフリーなラジオ】
 
-フリーランスエンジニアとして自由に働く全ての人へ――。
-現役フリーランスエンジニアやエージェント、更には発注者など、さまざまな立場の方をゲストを招き、リアルな経験や悩み、最新トレンド、キャリアアップのヒントを語り合うインターネットラジオ番組です。
+    <item>
+      <title><![CDATA[ エンドユーザーが見えなかった！大手製造業から、ITフリーランスエンジニアになった元・生産技術、皆越さんの現実 #fltalk ]]></title>
+      <description><![CDATA[ 自動車業界の巨大企業からITフリーランスへ。キャリアチェンジから4年目となる現在、皆越さんが直面している現実と、新しい働き方の魅力を語ります。 ]]></description>
+      <pubDate>Thu, 27 Nov 2025 09:00:00 GMT</pubDate>
+      <itunes:duration>00:42:43</itunes:duration>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/111395509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2F412757184-44100-2-55f5c02f99252.m4a" length="41452333" type="audio/x-m4a"/>
+      <guid isPermaLink="false">9c94d89b-aee0-4458-915a-4c0c8fad3584</guid>
+    </item>
 
-「案件獲得のコツは？」「長く活躍するには？」「いつ独立したらいいの？」など、フリーランスならではのリアルな声に寄り添った新感覚トークをお届けします。あなたの“フリー”な働き方を、もっと自由に、もっと楽しく。フリーランスエンジニアのための情報と共感が詰まったラジオです。]]></description>
-		<link>https://podcasters.spotify.com/pod/show/freelance-talk</link>
-		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 06 Jan 2026 08:07:37 GMT</lastBuildDate>
-		<atom:link href="https://anchor.fm/s/1039d6080/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[CMパートナーズ]]></author>
-		<copyright><![CDATA[CMパートナーズ]]></copyright>
-		<language><![CDATA[ja]]></language>
-		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>CMパートナーズ</itunes:author>
-		<itunes:summary>【フリーランスエンジニアのためのフリーなラジオ】
+    <item>
+      <title><![CDATA[ フリーランス20年の秘訣！ 塾講師→エンジニア→アジャイルコーチ 高江洲さんのキャリア術 ]]></title>
+      <description><![CDATA[ 営業活動ゼロで20年間仕事を獲得し続ける「繋がり」の作り方。塾講師からエンジニア、そしてアジャイルコーチへ。異色のキャリアパスを語ります。 ]]></description>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+      <itunes:duration>00:25:05</itunes:duration>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/109109920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-2%2Fd396fe81-b486-dd47-eace-2f1bb2f36476.mp3" length="46308960" type="audio/mpeg"/>
+      <guid isPermaLink="false">5532fb75-c44a-446e-8368-a0f4ed1fa5da</guid>
+    </item>
 
-フリーランスエンジニアとして自由に働く全ての人へ――。
-現役フリーランスエンジニアやエージェント、更には発注者など、さまざまな立場の方をゲストを招き、リアルな経験や悩み、最新トレンド、キャリアアップのヒントを語り合うインターネットラジオ番組です。
+    <item>
+      <title><![CDATA[ お金から「真の自由」へ、キャリア20年の知る人ぞ知る隠れ家的フリーランス 太田哲也さん ]]></title>
+      <description><![CDATA[ 会社員とフリーランスを行き来しながら彼が経験した失敗談や、AI時代の働き方、人間関係の重要性について語り尽くします。 ]]></description>
+      <pubDate>Mon, 07 Jul 2025 09:12:10 GMT</pubDate>
+      <itunes:duration>00:50:07</itunes:duration>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/105135561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403443078-44100-2-08ce7d5a6f3c.m4a" length="48642815" type="audio/x-m4a"/>
+      <guid isPermaLink="false">6db56eb4-5f06-4fd9-9e08-985f2116194c</guid>
+    </item>
 
-「案件獲得のコツは？」「長く活躍するには？」「いつ独立したらいいの？」など、フリーランスならではのリアルな声に寄り添った新感覚トークをお届けします。あなたの“フリー”な働き方を、もっと自由に、もっと楽しく。フリーランスエンジニアのための情報と共感が詰まったラジオです。</itunes:summary>
-		<itunes:type>episodic</itunes:type>
-		<itunes:owner>
-			<itunes:name>CMパートナーズ</itunes:name>
-			<itunes:email>fukasawa.takeshi@classmethod.jp</itunes:email>
-		</itunes:owner>
-		<itunes:explicit>false</itunes:explicit>
-		<itunes:category text="Technology"/>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg"/>
-		<item>
-			<title><![CDATA[【案件獲得】元フリーターが独立5年、直・古巣・紹介で仕事を回す舞台裏]]></title>
-			<description><![CDATA[<p>営業活動なしで食っていけるのか？元フリーターがクラスメソッドを経て独立5年で確立した「古巣・紹介」活用術。人脈だけで案件を回す舞台裏を公開します。</p><p><br></p><p>■目次</p><p>0:00 オープニング：現在の仕事と稼働時間 現在の並行稼働している3つの案件や、稼働時間について。</p><p>0:50 具体的な案件内容とLLMへの関心 アセット開発、技術支援、そして興味を持っているチャットボット（LLM）開発の案件について。複数案件を持つことの利点。</p><p>2:56 案件獲得のルートと人脈 エージェントを使わず、知人や以前の現場からの紹介で直契約を得ている現状について。</p><p>4:31 使用技術スタックとフルスタック開発 TypeScript、<a href="http://next.js/" target="_blank" rel="ugc noopener noreferrer">Next.js</a>、React、AWS（Lambda, ECS, CDK）など、フロントからインフラまで機能単位で担当する開発スタイルについて。</p><p>06:23 経歴：フリーターからエンジニア、そして独立へ 学歴・資格なしのフリーターから、地方移住やリモートワークへの憧れでIT業界に入り、SESを経てクラスメソッドに入社した経緯。</p><p>9:24 クラスメソッドでの経験と独立の動機 情報発信文化への共感、そして「自分で案件を選び、営業や単価交渉もしたい」という理由でフリーランスになった話。</p><p>13:50 現在の志向の変化：事業会社志望から技術志向へ 以前はスタートアップ等の事業会社にこだわっていたが、現在はLLMなど技術スタックを重視するように変化した理由。</p><p>15:51 法人化とエンジニア夫婦のライフスタイル フリーランス5年目での法人化や、同じエンジニア職の夫との「切磋琢磨」する関係性、仕事への理解について。</p><p>19:01 健康管理とおすすめサプリ 健康診断やサプリメントの話</p><p>21:54 【重要】過去の自分へのアドバイス「単価に飛びつくな」 マイナーな技術を採用している高単価案件での苦労話。技術選定が将来の採用やキャリアに与える影響について。</p><p>25:37 最近のニュース：クラスメソッドへの復帰と簿記3級 古巣のクラスメソッドに業務委託として戻った心地よさと、法人決算のために簿記3級を取得した話。</p><p>28:14 エンディング</p><p>■参考URLはこちら</p><p><a href="https://propagate-tech.com/services/cmpartners" target="_blank" rel="ugc noopener noreferrer">https://propagate-tech.com/services/cmpartners</a></p><p>■出演者プロフィール</p><p>フリーランスエンジニア</p><p>岡 春奈</p><p><a href="https://x.com/OkaHaruna" target="_blank" rel="ugc noopener noreferrer">https://x.com/OkaHaruna</a></p><p>■クラスメソッドの詳細</p><p>コーポレートサイト→ <a href="https://classmethod.jp/" target="_blank" rel="ugc noopener noreferrer">https://classmethod.jp/</a></p><p>「やってみた」系技術メディア「DevelopersIO」→ <a href="https://dev.classmethod.jp/" target="_blank" rel="ugc noopener noreferrer">https://dev.classmethod.jp/</a></p><p>エンジニアのための情報共有コミュニティ「Zenn」→ <a href="https://zenn.dev/" target="_blank" rel="ugc noopener noreferrer">https://zenn.dev/</a></p><p>Facebook→ <a href="https://www.facebook.com/classmethod/" target="_blank" rel="ugc noopener noreferrer">https://www.facebook.com/classmethod/</a></p><p>X→ <a href="https://x.com/classmethod" target="_blank" rel="ugc noopener noreferrer">https://x.com/classmethod</a></p><p>#フリーランス #フリーランスエンジニア #ITフリーランス #クラスメソッド</p>
-]]></description>
-			<link>https://podcasters.spotify.com/pod/show/freelance-talk/episodes/5-e3c8hit</link>
-			<guid isPermaLink="false">adf12c8a-d01c-46c3-a496-61f3b9bc1692</guid>
-			<dc:creator><![CDATA[CMパートナーズ]]></dc:creator>
-			<pubDate>Thu, 18 Dec 2025 09:00:00 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/1039d6080/podcast/play/112526365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-16%2Fcb049ebc-3363-761a-a722-3fe2c564a066.mp3" length="69360960" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;営業活動なしで食っていけるのか？元フリーターがクラスメソッドを経て独立5年で確立した「古巣・紹介」活用術。人脈だけで案件を回す舞台裏を公開します。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;■目次&lt;/p&gt;&lt;p&gt;0:00 オープニング：現在の仕事と稼働時間 現在の並行稼働している3つの案件や、稼働時間について。&lt;/p&gt;&lt;p&gt;0:50 具体的な案件内容とLLMへの関心 アセット開発、技術支援、そして興味を持っているチャットボット（LLM）開発の案件について。複数案件を持つことの利点。&lt;/p&gt;&lt;p&gt;2:56 案件獲得のルートと人脈 エージェントを使わず、知人や以前の現場からの紹介で直契約を得ている現状について。&lt;/p&gt;&lt;p&gt;4:31 使用技術スタックとフルスタック開発 TypeScript、&lt;a href=&quot;http://next.js/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;Next.js&lt;/a&gt;、React、AWS（Lambda, ECS, CDK）など、フロントからインフラまで機能単位で担当する開発スタイルについて。&lt;/p&gt;&lt;p&gt;06:23 経歴：フリーターからエンジニア、そして独立へ 学歴・資格なしのフリーターから、地方移住やリモートワークへの憧れでIT業界に入り、SESを経てクラスメソッドに入社した経緯。&lt;/p&gt;&lt;p&gt;9:24 クラスメソッドでの経験と独立の動機 情報発信文化への共感、そして「自分で案件を選び、営業や単価交渉もしたい」という理由でフリーランスになった話。&lt;/p&gt;&lt;p&gt;13:50 現在の志向の変化：事業会社志望から技術志向へ 以前はスタートアップ等の事業会社にこだわっていたが、現在はLLMなど技術スタックを重視するように変化した理由。&lt;/p&gt;&lt;p&gt;15:51 法人化とエンジニア夫婦のライフスタイル フリーランス5年目での法人化や、同じエンジニア職の夫との「切磋琢磨」する関係性、仕事への理解について。&lt;/p&gt;&lt;p&gt;19:01 健康管理とおすすめサプリ 健康診断やサプリメントの話&lt;/p&gt;&lt;p&gt;21:54 【重要】過去の自分へのアドバイス「単価に飛びつくな」 マイナーな技術を採用している高単価案件での苦労話。技術選定が将来の採用やキャリアに与える影響について。&lt;/p&gt;&lt;p&gt;25:37 最近のニュース：クラスメソッドへの復帰と簿記3級 古巣のクラスメソッドに業務委託として戻った心地よさと、法人決算のために簿記3級を取得した話。&lt;/p&gt;&lt;p&gt;28:14 エンディング&lt;/p&gt;&lt;p&gt;■参考URLはこちら&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://propagate-tech.com/services/cmpartners&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://propagate-tech.com/services/cmpartners&lt;/a&gt;&lt;/p&gt;&lt;p&gt;■出演者プロフィール&lt;/p&gt;&lt;p&gt;フリーランスエンジニア&lt;/p&gt;&lt;p&gt;岡 春奈&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/OkaHaruna&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://x.com/OkaHaruna&lt;/a&gt;&lt;/p&gt;&lt;p&gt;■クラスメソッドの詳細&lt;/p&gt;&lt;p&gt;コーポレートサイト→ &lt;a href=&quot;https://classmethod.jp/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://classmethod.jp/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;「やってみた」系技術メディア「DevelopersIO」→ &lt;a href=&quot;https://dev.classmethod.jp/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://dev.classmethod.jp/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;エンジニアのための情報共有コミュニティ「Zenn」→ &lt;a href=&quot;https://zenn.dev/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://zenn.dev/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Facebook→ &lt;a href=&quot;https://www.facebook.com/classmethod/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://www.facebook.com/classmethod/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;X→ &lt;a href=&quot;https://x.com/classmethod&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://x.com/classmethod&lt;/a&gt;&lt;/p&gt;&lt;p&gt;#フリーランス #フリーランスエンジニア #ITフリーランス #クラスメソッド&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:28:54</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title><![CDATA[エンドユーザーが見えなかった！大手製造業から、ITフリーランスエンジニアになった元・生産技術、皆越さんの現実 #fltalk]]></title>
-			<description><![CDATA[<p>自動車業界の巨大企業にて、生産技術として工場内の不良率を下げるための設備導入や改造、企画立案に従事していたゲストの皆越さん。</p><p>前職で培ったPLC、VB、Pythonを用いたデータ処理の経験を活かし、未経験ながらもあえてSESではなく、案件選びの自由度を求めてフリーランスの道を選びました。</p><p>キャリアチェンジから4年目となる現在、皆越さんが直面している現実と、新しい働き方の魅力を語ります。</p><p><br></p><p>■目次</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw" target="_blank" rel="ugc noopener noreferrer">0:00</a> オープニング/ゲスト紹介：自動車業界からITフリーランスへ</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=20s" target="_blank" rel="ugc noopener noreferrer">0:20</a> 前職での経験：不良率改善とプログラミング、データ処理</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=213s" target="_blank" rel="ugc noopener noreferrer">3:33</a> フリーランスの選択理由</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=302s" target="_blank" rel="ugc noopener noreferrer">5:02</a> 最初の案件獲得の苦労と実務内容</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=423s" target="_blank" rel="ugc noopener noreferrer">7:03</a> 前職の企画の仕事力が活きた業務の進め方</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=516s" target="_blank" rel="ugc noopener noreferrer">8:36</a> IT業界に来た理由 - 「エンドユーザーが見えない」「いろんな業界に携われそう」</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=610s" target="_blank" rel="ugc noopener noreferrer">10:10</a>これまでの案件経験とAWSへの情熱</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=777s" target="_blank" rel="ugc noopener noreferrer">12:57</a> 正社員との比較：フリーランスになって仕事は楽しいか？</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=963s" target="_blank" rel="ugc noopener noreferrer">16:03</a> 案件獲得の戦略：エージェントと人の繋がり</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=1166s" target="_blank" rel="ugc noopener noreferrer">19:26</a> 案件選びの基準と商流の深い案件のトラウマ</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=1327s" target="_blank" rel="ugc noopener noreferrer">22:07</a> 並行案件と地元の案件</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=1488s" target="_blank" rel="ugc noopener noreferrer">24:48</a> フリーランスの単価交渉と相場観の悩み</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=1587s" target="_blank" rel="ugc noopener noreferrer">26:27</a> 地方在住でも月1で東京へ行く理由</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=1833s" target="_blank" rel="ugc noopener noreferrer">30:33</a> エンジニアの喜び：コードが動き、プチソリューションを考える時</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=1916s" target="_blank" rel="ugc noopener noreferrer">31:56</a> 活用AIツール：Claude Codeで生産性向上</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=2010s" target="_blank" rel="ugc noopener noreferrer">33:30</a> 技術力以外に必要な能力：PMO的な動きと新しいところに行く積極性、期待値調整</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=2342s" target="_blank" rel="ugc noopener noreferrer">39:02</a> 仕事外の活動：自然、観葉植物、読書</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=2428s" target="_blank" rel="ugc noopener noreferrer">40:28</a> フリーランス志望者へ：確定申告とメディアに惑わされたないキャリアの熟考</p><p><a href="https://www.youtube.com/watch?v=8RNa4RphjOw&t=2433s" target="_blank" rel="ugc noopener noreferrer">40:33</a> クロージング</p><p><br></p><p>■参考URLはこちらITフリーランス専門エージェント 「CMパートナーズ」 </p><p><a href="https://propagate-tech.com/services/cmpartners" target="_blank" rel="noopener noreferer">https://propagate-tech.com/services/cmpartners</a></p><p>■出演者</p><p>フリーランスエンジニア 皆越 建</p>
-]]></description>
-			<link>https://podcasters.spotify.com/pod/show/freelance-talk/episodes/IT-fltalk-e3b617l</link>
-			<guid isPermaLink="false">9c94d89b-aee0-4458-915a-4c0c8fad3584</guid>
-			<dc:creator><![CDATA[CMパートナーズ]]></dc:creator>
-			<pubDate>Thu, 27 Nov 2025 09:00:00 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/1039d6080/podcast/play/111395509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2F412757184-44100-2-55f5c02f99252.m4a" length="41452333" type="audio/x-m4a"/>
-			<itunes:summary>&lt;p&gt;自動車業界の巨大企業にて、生産技術として工場内の不良率を下げるための設備導入や改造、企画立案に従事していたゲストの皆越さん。&lt;/p&gt;&lt;p&gt;前職で培ったPLC、VB、Pythonを用いたデータ処理の経験を活かし、未経験ながらもあえてSESではなく、案件選びの自由度を求めてフリーランスの道を選びました。&lt;/p&gt;&lt;p&gt;キャリアチェンジから4年目となる現在、皆越さんが直面している現実と、新しい働き方の魅力を語ります。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;■目次&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;0:00&lt;/a&gt; オープニング/ゲスト紹介：自動車業界からITフリーランスへ&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=20s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;0:20&lt;/a&gt; 前職での経験：不良率改善とプログラミング、データ処理&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=213s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;3:33&lt;/a&gt; フリーランスの選択理由&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=302s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;5:02&lt;/a&gt; 最初の案件獲得の苦労と実務内容&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=423s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;7:03&lt;/a&gt; 前職の企画の仕事力が活きた業務の進め方&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=516s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;8:36&lt;/a&gt; IT業界に来た理由 - 「エンドユーザーが見えない」「いろんな業界に携われそう」&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=610s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;10:10&lt;/a&gt;これまでの案件経験とAWSへの情熱&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=777s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;12:57&lt;/a&gt; 正社員との比較：フリーランスになって仕事は楽しいか？&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=963s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;16:03&lt;/a&gt; 案件獲得の戦略：エージェントと人の繋がり&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=1166s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;19:26&lt;/a&gt; 案件選びの基準と商流の深い案件のトラウマ&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=1327s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;22:07&lt;/a&gt; 並行案件と地元の案件&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=1488s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;24:48&lt;/a&gt; フリーランスの単価交渉と相場観の悩み&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=1587s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;26:27&lt;/a&gt; 地方在住でも月1で東京へ行く理由&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=1833s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;30:33&lt;/a&gt; エンジニアの喜び：コードが動き、プチソリューションを考える時&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=1916s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;31:56&lt;/a&gt; 活用AIツール：Claude Codeで生産性向上&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=2010s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;33:30&lt;/a&gt; 技術力以外に必要な能力：PMO的な動きと新しいところに行く積極性、期待値調整&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=2342s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;39:02&lt;/a&gt; 仕事外の活動：自然、観葉植物、読書&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=2428s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;40:28&lt;/a&gt; フリーランス志望者へ：確定申告とメディアに惑わされたないキャリアの熟考&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8RNa4RphjOw&amp;t=2433s&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;40:33&lt;/a&gt; クロージング&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;■参考URLはこちらITフリーランス専門エージェント 「CMパートナーズ」 &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://propagate-tech.com/services/cmpartners&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://propagate-tech.com/services/cmpartners&lt;/a&gt;&lt;/p&gt;&lt;p&gt;■出演者&lt;/p&gt;&lt;p&gt;フリーランスエンジニア 皆越 建&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:42:43</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title><![CDATA[フリーランス20年の秘訣！ 塾講師→エンジニア→アジャイルコーチ 高江洲さんのキャリア術]]></title>
-			<description><![CDATA[<p><strong>高江洲 睦</strong> さんについて</p><ul><li>起業も含めて20年以上のフリーランス歴を持つアジャイルコーチ</li></ul><ul><li>コミュニティ運営や登壇</li></ul><ul><li><a href="https://www.amazon.co.jp/stores/%E9%AB%98%E6%B1%9F%E6%B4%B2%E7%9D%A6/author/B0BHL7SB7B" target="_blank" rel="ugc noopener noreferrer">アジャイル関連書籍の翻訳</a>を6冊手がける</li></ul><ul><li>最新翻訳書籍：『プロフェッショナルスクラム虎の巻』など</li></ul><p><br></p><p>今回の見どころ</p><ul><li>「サラリーマンは向いてない」と言われた理由とその後</li><li>営業活動ゼロで20年間仕事を獲得し続ける「繋がり」の作り方</li><li>塾講師→エンジニア→アジャイルコーチという異色のキャリアパス</li><li>未経験からIT業界に飛び込んだ2000年当時のリアル5人で会社を立ち上げた起業体験談</li><li>アジャイルコーチとして「いかに早く首になるか」を重視する哲学</li><li>翻訳書籍の執筆に至る道と効果</li></ul>
-]]></description>
-			<link>https://podcasters.spotify.com/pod/show/freelance-talk/episodes/20-e390970</link>
-			<guid isPermaLink="false">5532fb75-c44a-446e-8368-a0f4ed1fa5da</guid>
-			<dc:creator><![CDATA[CMパートナーズ]]></dc:creator>
-			<pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/1039d6080/podcast/play/109109920/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-2%2Fd396fe81-b486-dd47-eace-2f1bb2f36476.mp3" length="46308960" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;&lt;strong&gt;高江洲 睦&lt;/strong&gt; さんについて&lt;/p&gt;&lt;ul&gt;&lt;li&gt;起業も含めて20年以上のフリーランス歴を持つアジャイルコーチ&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;コミュニティ運営や登壇&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/stores/%E9%AB%98%E6%B1%9F%E6%B4%B2%E7%9D%A6/author/B0BHL7SB7B&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;アジャイル関連書籍の翻訳&lt;/a&gt;を6冊手がける&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;最新翻訳書籍：『プロフェッショナルスクラム虎の巻』など&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;今回の見どころ&lt;/p&gt;&lt;ul&gt;&lt;li&gt;「サラリーマンは向いてない」と言われた理由とその後&lt;/li&gt;&lt;li&gt;営業活動ゼロで20年間仕事を獲得し続ける「繋がり」の作り方&lt;/li&gt;&lt;li&gt;塾講師→エンジニア→アジャイルコーチという異色のキャリアパス&lt;/li&gt;&lt;li&gt;未経験からIT業界に飛び込んだ2000年当時のリアル5人で会社を立ち上げた起業体験談&lt;/li&gt;&lt;li&gt;アジャイルコーチとして「いかに早く首になるか」を重視する哲学&lt;/li&gt;&lt;li&gt;翻訳書籍の執筆に至る道と効果&lt;/li&gt;&lt;/ul&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:25:05</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title><![CDATA[お金から「真の自由」へ、キャリア20年の知る人ぞ知る隠れ家的フリーランス 太田哲也さん]]></title>
-			<description><![CDATA[<p>今回のゲストは20年のキャリアを持つフリーランスエンジニアの太田哲也さん。</p><p>会社員とフリーランスを行き来しながら彼が経験した数々の<strong>失敗談</strong>や、<strong>AI時代の働き方</strong>、そして<strong>案件獲得の秘訣</strong>、<strong>人間関係の重要性</strong>、さらにはユニークな<strong>仕事のポリシー</strong>やプライベートについて語り尽くします。<strong>フリーランスとして生き残る</strong>ためのヒントが満載の必聴回！</p>
-]]></description>
-			<link>https://podcasters.spotify.com/pod/show/freelance-talk/episodes/20-e357009</link>
-			<guid isPermaLink="false">6db56eb4-5f06-4fd9-9e08-985f2116194c</guid>
-			<dc:creator><![CDATA[CMパートナーズ]]></dc:creator>
-			<pubDate>Mon, 07 Jul 2025 09:12:10 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/1039d6080/podcast/play/105135561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403443078-44100-2-08ce7d5a6f3c.m4a" length="48642815" type="audio/x-m4a"/>
-			<itunes:summary>&lt;p&gt;今回のゲストは20年のキャリアを持つフリーランスエンジニアの太田哲也さん。&lt;/p&gt;&lt;p&gt;会社員とフリーランスを行き来しながら彼が経験した数々の&lt;strong&gt;失敗談&lt;/strong&gt;や、&lt;strong&gt;AI時代の働き方&lt;/strong&gt;、そして&lt;strong&gt;案件獲得の秘訣&lt;/strong&gt;、&lt;strong&gt;人間関係の重要性&lt;/strong&gt;、さらにはユニークな&lt;strong&gt;仕事のポリシー&lt;/strong&gt;やプライベートについて語り尽くします。&lt;strong&gt;フリーランスとして生き残る&lt;/strong&gt;ためのヒントが満載の必聴回！&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:50:07</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title><![CDATA[異業種からフリーランスへ、そして5年で独立！フリーランスエンジニア久保田さんのリアルな働き方]]></title>
-			<description><![CDATA[<p>今回のゲストは異業種からIT業界へ転身し、<strong>5年でフリーランスエンジニアとして独立</strong>した久保田さんです。</p><p>新卒でグランドハンドリングを経験後、コロナ禍を機に独学でITスキルを習得し、SES企業へ転職。「辞めたい」と思った日々を乗り越え、フリーランスとして<strong>報酬アップや案件選択の自由</strong>を獲得しました。</p><p>エージェントだけでなくSNSも活用しての案件獲得方法や、<strong>「将来性のある技術」を重視する選び方</strong>、そして<strong>非技術スキルの重要性</strong>など<strong>リアルな働き方</strong>と<strong>技術顧問を目指す将来像</strong> に迫ります！</p><p>ITフリーランス専門エージェント - CMパートナーズ</p><p><a href="https://propagate-tech.com/services/cmpartners" target="_blank" rel="noopener noreferer">https://propagate-tech.com/services/cmpartners</a></p><p><br></p><p>X - CMパートナーズ</p><p>⁠⁠<a href="https://x.com/propagate_x" target="_blank" rel="ugc noopener noreferrer">https://x.com/propagate_x</a></p><p><br></p><p>[00:00] オープニングと自己紹介 異業界（グランドハンドリング）からの転身、SES、学び方[06:25] フリーランス転向のきっかけ 上京の機会、父の自営業の影響、4年間の自信。[09:05] 会社員時代との違い、変わらないこと。[13:59]  案件獲得はエージェント二社やXの活用。[22:32]  発信・ブランディング 、現場でのファシリ・提案で信頼獲得。[29:24]  これからの目標 生成AIのプロダクト実装へ。将来は技術顧問も視野。</p>
-]]></description>
-			<link>https://podcasters.spotify.com/pod/show/freelance-talk/episodes/5-e34la4i</link>
-			<guid isPermaLink="false">667dc8e2-46f5-4409-9801-de53f84a61e6</guid>
-			<dc:creator><![CDATA[CMパートナーズ]]></dc:creator>
-			<pubDate>Tue, 24 Jun 2025 04:29:15 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/1039d6080/podcast/play/104556114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-24%2F3cc9ea67-2cb6-d249-e46e-80d3830523ef.mp3" length="36435360" type="audio/mpeg"/>
-			<itunes:summary>&lt;p&gt;今回のゲストは異業種からIT業界へ転身し、&lt;strong&gt;5年でフリーランスエンジニアとして独立&lt;/strong&gt;した久保田さんです。&lt;/p&gt;&lt;p&gt;新卒でグランドハンドリングを経験後、コロナ禍を機に独学でITスキルを習得し、SES企業へ転職。「辞めたい」と思った日々を乗り越え、フリーランスとして&lt;strong&gt;報酬アップや案件選択の自由&lt;/strong&gt;を獲得しました。&lt;/p&gt;&lt;p&gt;エージェントだけでなくSNSも活用しての案件獲得方法や、&lt;strong&gt;「将来性のある技術」を重視する選び方&lt;/strong&gt;、そして&lt;strong&gt;非技術スキルの重要性&lt;/strong&gt;など&lt;strong&gt;リアルな働き方&lt;/strong&gt;と&lt;strong&gt;技術顧問を目指す将来像&lt;/strong&gt; に迫ります！&lt;/p&gt;&lt;p&gt;ITフリーランス専門エージェント - CMパートナーズ&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://propagate-tech.com/services/cmpartners&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;https://propagate-tech.com/services/cmpartners&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;X - CMパートナーズ&lt;/p&gt;&lt;p&gt;⁠⁠&lt;a href=&quot;https://x.com/propagate_x&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://x.com/propagate_x&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;[00:00] オープニングと自己紹介 異業界（グランドハンドリング）からの転身、SES、学び方[06:25] フリーランス転向のきっかけ 上京の機会、父の自営業の影響、4年間の自信。[09:05] 会社員時代との違い、変わらないこと。[13:59]  案件獲得はエージェント二社やXの活用。[22:32]  発信・ブランディング 、現場でのファシリ・提案で信頼獲得。[29:24]  これからの目標 生成AIのプロダクト実装へ。将来は技術顧問も視野。&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:30:21</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43456128/43456128-1747203494256-2463fd0c01119.jpg"/>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-		<item>
-			<title><![CDATA[フリーランスエンジニアのリアルな「独立理由」と知られざる「生態」 - 現役エージェントが語る編]]></title>
-			<description><![CDATA[<p>フリーランスエージェントのメンバーが聞いた<strong>フリーランスエンジニアたちのリアルな「独立理由」</strong>をお話しします！収入アップ、働き方の変化、力試しなど、多様な背景を紹介します。組織からの挑戦、エンジニア以外の活動との両立など、様々な背景に触れます。</p><p>さらに、彼らの知られざる<strong>リアルな「生態」、人柄や働き方のこだわり</strong>などを紹介。</p><p>エージェントだからこそ見えてくる、彼らの実像を語ります。</p><p><br></p><p>ITフリーランス専門エージェント - CMパートナーズ </p><p><a href="https://propagate-tech.com/services/cmpartners" target="_blank" rel="ugc noopener noreferrer">https://propagate-tech.com/services/cmpartners</a></p><p><br></p><p>X - CMパートナーズ</p><p><a href="https://x.com/propagate_x" target="_blank" rel="ugc noopener noreferrer">https://x.com/propagate_x</a></p>
-]]></description>
-			<link>https://podcasters.spotify.com/pod/show/freelance-talk/episodes/--e32jou0</link>
-			<guid isPermaLink="false">3eea05fc-9cf1-4193-8500-67839711780d</guid>
-			<dc:creator><![CDATA[CMパートナーズ]]></dc:creator>
-			<pubDate>Wed, 14 May 2025 06:30:04 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/1039d6080/podcast/play/102408576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F1f452a8b-6b62-ac0c-7600-912681ca9770.m4a" length="27627102" type="audio/x-m4a"/>
-			<itunes:summary>&lt;p&gt;フリーランスエージェントのメンバーが聞いた&lt;strong&gt;フリーランスエンジニアたちのリアルな「独立理由」&lt;/strong&gt;をお話しします！収入アップ、働き方の変化、力試しなど、多様な背景を紹介します。組織からの挑戦、エンジニア以外の活動との両立など、様々な背景に触れます。&lt;/p&gt;&lt;p&gt;さらに、彼らの知られざる&lt;strong&gt;リアルな「生態」、人柄や働き方のこだわり&lt;/strong&gt;などを紹介。&lt;/p&gt;&lt;p&gt;エージェントだからこそ見えてくる、彼らの実像を語ります。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ITフリーランス専門エージェント - CMパートナーズ &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://propagate-tech.com/services/cmpartners&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://propagate-tech.com/services/cmpartners&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;X - CMパートナーズ&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/propagate_x&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;https://x.com/propagate_x&lt;/a&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:14:33</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43456128/43456128-1747204180676-cf93be0c338db.jpg"/>
-			<itunes:episode>1</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-	</channel>
+    <item>
+      <title><![CDATA[ 異業種からフリーランスへ、そして5年で独立！フリーランスエンジニア久保田さんのリアルな働き方 ]]></title>
+      <description><![CDATA[ 異業種からIT業界へ転身し、5年で独立。報酬アップや案件選択の自由を獲得した久保田さんのリアルな働き方に迫ります。 ]]></description>
+      <pubDate>Tue, 24 Jun 2025 04:29:15 GMT</pubDate>
+      <itunes:duration>00:30:21</itunes:duration>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/104556114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-24%2F3cc9ea67-2cb6-d249-e46e-80d3830523ef.mp3" length="36435360" type="audio/mpeg"/>
+      <guid isPermaLink="false">667dc8e2-46f5-4409-9801-de53f84a61e6</guid>
+    </item>
+
+    <item>
+      <title><![CDATA[ フリーランスエンジニアのリアルな「独立理由」と知られざる「生態」 - 現役エージェントが語る編 ]]></title>
+      <description><![CDATA[ エージェントだからこそ見えてくる、エンジニアたちのリアルな「独立理由」や「生態」を紹介します。 ]]></description>
+      <pubDate>Wed, 14 May 2025 06:30:04 GMT</pubDate>
+      <itunes:duration>00:14:33</itunes:duration>
+      <enclosure url="https://anchor.fm/s/1039d6080/podcast/play/102408576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F1f452a8b-6b62-ac0c-7600-912681ca9770.m4a" length="27627102" type="audio/x-m4a"/>
+      <guid isPermaLink="false">3eea05fc-9cf1-4193-8500-67839711780d</guid>
+    </item>
+
+  </channel>
 </rss>
