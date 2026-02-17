@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" version="2.0">
   <channel>
+    <item>
+      <title>【案件獲得】元フリーターが独立5年、直・古巣・紹介で仕事を回す舞台裏 #fltalk</title>
+      <description><![CDATA[<p><b>営業なしで、案件が途切れないフリーランスは何をしているのか？</b> 元フリーターからエンジニアに転身し、独立5年で「直契約・古巣・紹介」を軸に仕事を回す岡春奈さんが、<i>人脈だけで案件が動く舞台裏</i>を具体的に語ります。</p>
+
+<p><b>このエピソードで話すこと</b></p>
+<ul>
+  <li><b>現在の稼働状況</b>：並行している案件数と、リアルな稼働時間の考え方</li>
+  <li><b>具体的な案件の中身</b>：アセット開発／技術支援／チャットボット開発など、今関心がある領域（LLM含む）</li>
+  <li><b>案件獲得のルート</b>：エージェントに頼らず「知人・以前の現場・紹介」で直契約を得る方法</li>
+  <li><b>技術スタックと働き方</b>：TypeScript、Next.js、React、AWS（Lambda/ECS/CDK）でフロント〜インフラまで機能単位で担当</li>
+  <li><b>キャリアの歩み</b>：学歴・資格なしのフリーター→SES→クラスメソッド→独立に至る背景</li>
+  <li><b>独立の動機</b>：「案件を自分で選ぶ」「営業や単価交渉も含めてやりたい」と思った理由</li>
+  <li><b>志向の変化</b>：事業会社志望から、LLMなど“技術スタック重視”へシフトした話</li>
+  <li><b>法人化と夫婦のスタイル</b>：エンジニア夫婦ならではの仕事理解と、切磋琢磨する関係性</li>
+  <li><b>健康管理</b>：健康診断・サプリなど、継続して働くための整え方</li>
+  <li><b>過去の自分への助言</b>：「単価に飛びつくな」—マイナー技術×高単価案件で苦労した学び</li>
+  <li><b>最近のニュース</b>：古巣（クラスメソッド）へ業務委託で戻った心地よさ／法人決算に向けて簿記3級を取った話</li>
+</ul>
+
+<p><b>参考URL</b>：<a href="https://propagate-tech.com/services/cmpartners">https://propagate-tech.com/services/cmpartners</a></p>
+
+<p><b>出演</b>：岡 春奈（フリーランスエンジニア）<br />X：<a href="https://x.com/OkaHaruna">https://x.com/OkaHaruna</a></p>
+
+<p><b>クラスメソッド</b><br />
+コーポレート：<a href="https://classmethod.jp/">https://classmethod.jp/</a><br />
+DevelopersIO：<a href="https://dev.classmethod.jp/">https://dev.classmethod.jp/</a><br />
+Zenn：<a href="https://zenn.dev/">https://zenn.dev/</a><br />
+Facebook：<a href="https://www.facebook.com/classmethod/">https://www.facebook.com/classmethod/</a><br />
+X：<a href="https://x.com/classmethod">https://x.com/classmethod</a>
+</p>]]></description>
+      <itunes:duration>28m55s</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dvjfo03qm35k.cloudfront.net/episodes/xWlAhZJpIa4.mp3" length="88635840" type="audio/mpeg" />
+      <pubDate>Tue, 17 Feb 2026 09:38:45 GMT</pubDate>
+      <guid isPermaLink="false">xWlAhZJpIa4</guid>
+    </item>
     <title><![CDATA[ フリーランストーク ]]></title>
     <description><![CDATA[ 【フリーランスエンジニアのためのフリーなラジオ】現役フリーランスエンジニアやエージェントなどを招き、リアルな経験やキャリアのヒントを語り合う番組です。 ]]></description>
     <link>https://propagate-tech.github.io/freelance-talk-podcasts-rss/</link>
